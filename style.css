@@ -8,7 +8,7 @@
 }
 
 .bgimMain {
-    background-image: url("../images/jumbotron.jpg");
+    background-image: url("./jumbotron.jpg");
     background-position-y: center;
     color: white;
 }
