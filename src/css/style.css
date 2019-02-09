@@ -1,0 +1,14 @@
+.bgimHeader, 
+.bgimMain {
+    background-image: url("../images/header.jpg"); 
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position-y: bottom;
+    background-position-x: center;
+}
+
+.bgimMain {
+    background-image: url("../images/jumbotron.jpg");
+    background-position-y: center;
+    color: white;
+}
